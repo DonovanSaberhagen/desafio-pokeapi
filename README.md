@@ -67,7 +67,7 @@ pokémon es.
 
 ![Imagen](./src/assets/style%20poke.png)
 
-1. Utilizamos Axios para el consumo de la API.
+8. Utilizamos Axios para el consumo de la API.
 
 ![Imagen](./src/assets/axios%20poke.png)
 
